@@ -1,0 +1,676 @@
+@media only screen and (max-width:1339px) {
+    .inner_content h2 {
+        font-size: 54px;
+        line-height: 66px;
+    }
+
+    .inner_content h4 {
+        font-size: 32px;
+        line-height: 44px;
+    }
+}
+
+@media only screen and (max-width:1199px) {
+    .inner_content h2 {
+        font-size: 48px;
+        line-height: 62px;
+    }
+
+    .inner_content h4 {
+        font-size: 30px;
+        line-height: 43px;
+    }
+
+    .inner_content p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .analytics_svg {
+        margin: -130px auto 0 auto;
+    }
+
+    .analytics_svg svg {
+        width: calc(100% - 10%);
+    }
+
+    .main_banner .right_img {
+        margin-top: 60px;
+    }
+
+}
+
+@media only screen and (max-width:991px) {
+    .wrapper {
+        padding: 0 50px;
+    }
+
+    .cus_chart {
+        padding-left: 0;
+        margin-top: 100px;
+    }
+
+    .common_head {
+        font-size: 28px;
+    }
+
+    .cus_row .hey_cont h3 {
+        margin-bottom: 30px;
+    }
+
+    .inner_content h2 {
+        font-size: 50px;
+        line-height: 60px;
+        text-align: center;
+        padding: 0 30px;
+    }
+
+    .inner_content h4 {
+        font-size: 28px;
+        line-height: 38px;
+        text-align: center;
+    }
+
+    .inner_content p {
+        text-align: center;
+        max-width: 470px;
+        margin: 0 auto 29px;
+    }
+
+    .inner_content {
+        padding-right: 0;
+        text-align: center;
+    }
+
+    .right_img img {
+        margin-top: 50px;
+    }
+
+    .main_banner {
+        padding: 50px 0 83px 0;
+        background-position: top 50px right 40px, bottom 18px left 20px, top 30% left 76px, top 30% left 77%;
+    }
+
+    .col_single .icon_div {
+        max-width: 350px;
+        margin: 0 auto;
+    }
+
+    .mistake_sec .gap_row .col_single {
+        flex: auto;
+    }
+
+    .chart_sec .cus_square,
+    .mistake_sec .cus_square {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .inner_char_div {
+        padding: 110px 0 100px 0;
+    }
+
+    .inner_mistak {
+        padding-top: 170px;
+    }
+
+    .yourself {
+        padding: 148px 0 97px 0;
+    }
+
+    .testimonials {
+        background-image: url(../images/testi_border-mobile.png);
+        margin-top: 100px;
+        padding: 64px 54px 94px 54px;
+    }
+
+    .ads_sec {
+        padding: 100px 0 160px 0;
+    }
+
+    .conversion_sec {
+        padding-top: 100px;
+    }
+
+    .conver_content {
+        width: 100%;
+    }
+
+    .analytics_svg svg {
+        width: 1316px;
+    }
+
+    .analytics_svg {
+        margin: -80px auto 0 -549px;
+    }
+
+    .conversion_sec .cus_container_testi {
+        margin-top: -343px;
+    }
+
+    .pricing_sec {
+        padding-top: 120px;
+    }
+
+    .pricing_sub {
+        margin-bottom: 100px;
+    }
+
+    .pricing_sec .zigzag {
+        margin-top: 70px;
+        margin-bottom: 177px;
+    }
+
+    h3.common_head.tab_only {
+        display: none;
+    }
+
+    .mobile_only {
+        display: block;
+    }
+
+    .inner_ecommerce_platforms.tab_only .conver_content {
+        width: 600px;
+    }
+
+    .inner_ecommerce_platforms .conver_content {
+        width: 53%;
+    }
+
+    .logos_list {
+        grid-gap: 45px;
+        margin-right: 70px;
+        width: auto;
+    }
+
+    .single_logo_div.wooy_logo img {
+        height: 44px;
+    }
+
+    .single_logo_div.shopify_logo img {
+        height: 40px;
+    }
+
+    .single_logo_div.shopify_logo img {
+        height: 40px;
+    }
+
+    .single_logo_div.square_logo img {
+        height: 44px;
+    }
+
+    .inner_ecommerce_platforms.mobile_only .conver_content {
+        width: 100%;
+        padding-right: 50px;
+    }
+
+    span.cus_selection_p:after {
+        height: 44px;
+    }
+
+    .still_question {
+        padding: 108px 0 108px 0;
+    }
+
+    .checklist_p {
+        width: 650px;
+    }
+
+    .bundle_img img {
+        margin: 50px auto 100px auto;
+    }
+
+    .mistake_sec .inner_mistak {
+        padding-bottom: 114px;
+        padding-top: 224px;
+
+    }
+
+    .mistake_sec p.sub_p {
+        margin: 30px auto 90px auto;
+        width: 100%;
+    }
+
+    .mistake_sec .bottom_head {
+        margin-top: 100px;
+    }
+
+    .cus_hey {
+        padding: 100px 0 97px 0;
+    }
+
+    .chart_sec .wrapper {
+        padding: 0 50px 0 50px;
+    }
+
+    .inner_char_div .common_head {
+        margin-bottom: 68px;
+    }
+
+    .inner_char_div .row {
+        justify-content: center;
+    }
+
+    .cus_trangle svg {
+        display: none;
+    }
+
+    .cus_trangle .tab_only svg {
+        display: block;
+    }
+
+    .yourself .your_sub {
+        width: 680px;
+        margin: 30px auto 45px;
+    }
+
+    .yourself h3 br {
+        display: none;
+    }
+
+    .yourself .your_sub span.cus_selection_p:after {
+        height: 33px;
+    }
+
+    .single_testi {
+        margin-bottom: 80px;
+    }
+
+    .conver_content .common_head br {
+        display: block;
+    }
+
+    .pricing_sec .common_head img {
+        width: 32px;
+        top: 8px;
+    }
+
+    .pricing_sec .zigzag .tab_only svg {
+        display: block;
+    }
+
+    .pricing_sec .zigzag svg {
+        display: none;
+    }
+
+    .share_checklist .checklist_cont br {
+        display: none;
+    }
+
+    .extent_licence {
+        margin: 30px auto;
+    }
+
+    .share_checklist .cus_container_testi .testimonials {
+        margin-top: 119px;
+    }
+
+    section.ecommerce_platforms {
+        padding-bottom: 150px;
+    }
+
+    .inner_char_div .cus_chart .mobile_only svg {
+        display: none;
+    }
+
+    .inner_char_div .cus_chart svg {
+        display: block;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .analytics_svg {
+        margin: 0;
+    }
+
+    .analytics_svg svg {
+        width: 436px;
+        max-width: 100%;
+    }
+
+    .conversion_sec .cus_container_testi {
+        margin-top: 0;
+    }
+
+    .cus_container_testi .testimonials {
+        padding: 40px 20px 35px 20px;
+        margin-top: 80px;
+    }
+
+    .main_banner, 
+    .cus_hey,
+    .chart_sec,
+    .mistake_sec,
+    .yourself,
+    .ads_sec,
+    .conversion_sec .wrapper,
+    .pricing_sec .wrapper,
+    .share_checklist,
+    .ecommerce_platforms {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .chart_sec .wrapper {
+        padding: 0;
+    }
+
+    .common_head {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    .inner_ads .common_head {
+        margin-bottom: 30px;
+    }
+
+    .ads_img img {
+        height: auto;
+        margin: 0 auto 38px auto;
+    }
+
+    .ads_sec {
+        padding-top: 60px;
+        padding-bottom: 70px;
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+
+    .testimonials {
+        background-image: url(../images/testi_border-smmobile.png);
+        padding: 40px 20px 35px 20px;
+        margin-top: 60px;
+    }
+
+    .pricing_sec {
+        padding-top: 65px;
+    }
+
+    .outer_price_div {
+        padding: 15px 10px 35px 10px;
+    }
+
+    .share_checklist .cus_container_testi .testimonials {
+        margin-top: 80px;
+        margin-bottom: 40px;
+    }
+
+    .inner_ecommerce_platforms.mobile_only .conver_content {
+        padding-right: 0;
+    }
+
+    .inner_ecommerce_platforms .conver_content {
+        width: 100%;
+    }
+
+    .logos_list {
+        grid-gap: 33px 0;
+        margin-right: 0;
+        width: 100%;
+        flex-direction: inherit;
+        flex-wrap: wrap;
+        margin-top: 40px;
+        justify-content: space-between;
+    }
+
+    .single_logo_div.shopify_logo img,
+    .single_logo_div.wooy_logo img,
+    .single_logo_div.magento_logo img,
+    .single_logo_div.square_logo img {
+        height: 31px;
+        margin: auto;
+    }
+
+    .logos_list .single_logo_div {
+        width: calc(50% - 13px);
+    }
+
+    section.ecommerce_platforms {
+        padding-bottom: 60px;
+    }
+
+    .still_question {
+        padding: 67px 0 93px 0;
+    }
+
+    .inner_footer p {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        width: fit-content;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+    .inner_content h2 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+
+    .inner_content h2 img {
+        width: 34px;
+    }
+
+    .inner_content h4 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    a.common_btn {
+        font-size: 14px;
+        line-height: 28px;
+    }
+
+    .main_banner {
+        padding-bottom: 60px;
+        background-position: top 0 right -30px, bottom 21px right 24px, top 43% left 16px, top 43% right 16px;
+    }
+
+    .cus_row .img_div {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        grid-gap: 25px;
+    }
+
+    .img_div img.profile_img {
+        width: 96px;
+    }
+
+    .img_div img.aquire_logo {
+        margin-top: 0;
+        margin-bottom: 16px;
+    }
+
+    .cus_row .hey_cont {
+        padding-right: 0;
+    }
+
+    .cus_row {
+        flex-direction: column-reverse;
+        grid-gap: 35px;
+    }
+
+    .cus_row .hey_cont h3 {
+        margin-bottom: 30px;
+    }
+
+    .cus_hey {
+        padding-bottom: 74px;
+        padding-top: 60px;
+    }
+
+    .inner_char_div {
+        padding: 110px 0 36px 0;
+    }
+
+    .mistake_sec .inner_mistak {
+        padding-bottom: 63px;
+        padding-top: 139px;
+    }
+
+    .single_testi {
+        margin-bottom: 60px;
+    }
+
+    .yourself {
+        padding-top: 110px;
+        padding-bottom: 57px;
+    }
+
+    .pricing_sub {
+        margin-bottom: 50px;
+    }
+
+    .inner_ads span.cus_selection_p:after {
+        content: normal;
+    }
+
+    span.cus_selection_p:after {
+        content: normal;
+    }
+
+    span.cus_selection_p {
+        background-color: rgb(113 195 171 / 50%);
+    }
+
+    .bundle_img img {
+        margin: 29px auto 58px auto;
+    }
+
+    .conver_content .common_head {
+        padding: 0 15px 0 0;
+    }
+
+    .bundle_img img.wh_md-none {
+        display: block;
+    }
+
+    .bundle_img .wh_sm_none {
+        display: none;
+    }
+
+    .wrapper {
+        padding: 0;
+    }
+
+    .cus_row .hey_cont p {
+        margin-bottom: 30px;
+    }
+
+    .inner_char_div .common_head {
+        margin-bottom: 30px;
+    }
+
+    .cus_chart {
+        margin-top: 46px;
+    }
+
+    .inner_char_div .cus_chart .mobile_only svg {
+        display: block;
+    }
+
+    .inner_char_div .cus_chart svg {
+        display: none;
+    }
+
+    .mistake_sec .inner_mistak .common_head br {
+        display: none;
+    }
+
+    .mistake_sec p.sub_p {
+        margin: 30px auto 30px auto;
+    }
+
+    .mistake_sec .icon_div img {
+        margin: 0 auto 30px auto;
+    }
+
+    .mistake_sec .bottom_head {
+        margin-top: 35px;
+    }
+
+    .yourself .your_sub {
+        margin: 30px auto 30px;
+    }
+
+    .conversion_sec {
+        padding-top: 34px;
+    }
+
+    .conversion_sec .analytics_svg.wh_md-none svg {
+        margin-bottom: -59px;
+    }
+
+    .conver_content .common_btn {
+        margin-top: 5px;
+    }
+
+    .pricing_sec .common_head img {
+        width: 24px;
+        top: 2px;
+    }
+
+    .pricing_sec .zigzag {
+        margin-bottom: 110px;
+    }
+
+    .extent_licence {
+        margin: 30px auto;
+    }
+
+    .inner_char_div .col-md-6 {
+        width: 100%;
+    }
+
+    .inner_ecommerce_platforms .conver_content .common_head {
+        margin-bottom: 30px;
+    }
+
+    .main_banner .right_img {
+        margin-top: 40px;
+    }
+
+    .main_banner .right_img {
+        margin-top: 40px;
+    }
+
+    .mistake_sec .gap_row {
+        grid-gap: 30px;
+    }
+    div#the-final-countdown p {
+    font-size: 13px;
+    line-height: 18px;
+}
+.header_timer span.off_text {
+    font-size: 16px;
+    line-height: 18px;
+}
+.header_timer_main .header_timer {
+    display: inline-block;
+}
+
+}
+
+
+@media only screen and (max-width:480px) {
+    .wh_sm_none {
+        display: none !important;
+    }
+
+    .wh_md-none {
+        display: block !important;
+    }
+
+    p.last_updated span {
+        display: block !important;
+    }
+
+    .img_div .three_logos {
+        max-width: 155px;
+        margin: 0 auto;
+    }
+}
+
+
+

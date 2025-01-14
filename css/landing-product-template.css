@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'graphikbold';
+    src: url('../fonts/graphikbold-webfont.woff2') format('woff2'),
+        url('../fonts/graphikbold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.crousel_arrow_box {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    grid-gap: 8px;
+}
+
+.bg_off_white {
+    background: #F7F5F1;
+}
+
+.crousel_wrapper {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.crousel_content h1 {
+    color: #123B38;
+    font-size: 34px;
+    font-family: 'graphikbold';
+    font-style: normal;
+    font-weight: 600;
+    line-height: 44.2px;
+    letter-spacing: -0.68px;
+    margin: 0;
+}
+
+.people_info h2 {
+    color: #123B38;
+    font-size: 16px;
+    font-style: normal;
+    font-family: 'graphik';
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 0;
+}
+
+.people_info img {
+    width: 40px;
+    border-radius: 100px;
+    object-fit: cover;
+}
+
+.people_info h4 {
+    color: #123B38;
+    font-size: 12px;
+    font-style: normal;
+    font-family: 'graphik';
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.192px;
+    margin-bottom: 0;
+}
+
+.crousel_right_img img {
+    border-radius: 0px 20px 20px 0px;
+    width: 650px;
+    max-width: 100%;
+    object-fit: cover;
+}

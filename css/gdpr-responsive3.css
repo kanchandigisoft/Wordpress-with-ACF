@@ -1,0 +1,1036 @@
+@media only screen and (max-width:1024.5px){
+    .gdpr_banner.main_banner {
+        background-image: none;
+        padding: 47px 0 60px 0;
+    }
+    .gdpr_banner .inner_content h4 {
+        margin-bottom: 40px;
+        margin-top: 30px;
+    }
+    .small_content_p {
+        width: 520px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    .new_reviews {
+        justify-content: center;
+    }
+    .gdpr_banner.main_banner .right_img {
+        margin-top: 50px;
+        display: block !important;
+    }
+    .gdpr_three_column .row .col-md-4 {
+        width: 33.33%;
+        padding: 0 10px;
+    }
+    .gdpr_three_column .row {
+        margin: 0 -10px;
+        width: auto;
+    }
+    section.gdpr_three_column .wrapper {
+        padding: 0 20px;
+    }
+    .icon_div_partial p br {
+        display: none;
+    }
+    .icon_div_partial p {
+        font-size: 20px;
+        letter-spacing: 0.32px;
+        margin-bottom: 70px !important;
+    }
+    .gdpr_three_column .bottom_head {
+        margin-bottom: 50px;
+    }
+    .outer_gdpr_email p {
+        margin: 0 auto 50px auto;
+    }
+    .marketing_checklist h3.common_head.bottom_head br {
+        display: none;
+    }
+    .new_cus_logo {
+        grid-gap: 40px;
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 500px;
+        max-width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+    }
+
+    .new_cus_logo .img_outer:nth-child(1) {
+        width: 180px;
+    }
+    .new_cus_logo .img_outer:nth-child(2) {
+        width: 176px;
+    }
+    .new_cus_logo .img_outer:nth-child(3) {
+        width: 186px;
+    }
+    .new_cus_logo .img_outer:nth-child(4) {
+        width: 84px;
+    }
+    .trusted_by_revenue {
+        padding: 80px 0;
+    }
+    .quick_win .common_head br {
+        display: none;
+    }
+    .quick_win .wrapper {
+        padding: 0 40px;
+    }
+    .quick_win {
+        padding: 100px 0 85px 0;
+    }
+    .middle_head {
+        font-size: 35px;
+        margin-bottom: 40px;
+    }
+    .middle_head img {
+        width: 35px;
+    }
+    .fines_p {
+        font-size: 20px;
+        line-height: 32px;
+        margin-bottom: 123px;
+    }
+
+
+    .cus_issues_table .cus_table_header > div {
+        font-size: 20px;
+    }
+    .cus_issues_table .cus_table_body_row > div {
+        padding: 30px 10px 30px 20px;
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .cus_issues_table .cus_table_header .cus_first_th, .cus_issues_table .cus_table_body_row .cus_first_td {
+        width: 40%;
+    }
+    .cus_issues_table .cus_table_header .cus_third_th, .cus_issues_table .cus_table_body_row .cus_third_td {
+        width: 25%;
+    }
+    .cus_issues_table .cus_table_body_row > div.cus_third_td {
+        font-size: 18px;
+    }
+    .fines_sec {
+        background-image: url(../images/new-images/circle_arrow_up.png), url(../images/new-images/circle_arrow.png);
+        background-position: right -60px top 22%, left -40px bottom 3%;
+        background-repeat: no-repeat;
+        background-size: 25%, 25%;
+        padding-bottom: 130px;
+    }
+    .my_checklist .common_head br {
+        display: none;
+    }
+    .my_checklist .row.cus_space_row {
+        margin: 0 auto;
+        width: 404px;
+    }
+    .outer_card_div p {
+        margin-bottom: 70px !important;
+    }
+    
+    .my_checklist h3.common_head.mb_100 {
+        margin-bottom: 68px !important;
+    }
+    
+    .common_head {
+        line-height: 40px;
+    }
+    .my_checklist h3.common_head.mb_50 {
+        margin-bottom: 70px !important;
+    }
+    p.notion_check {
+        font-size: 20px;
+        line-height: 32px;
+        margin: 0 auto 50px auto;
+    }
+ 
+    .my_checklist {
+        padding-bottom: 200px;
+    }
+    .quick_win_two {
+        padding-top: 125px;
+        padding-bottom: 74px;
+    }
+    .big_head {
+        font-size: 50px;
+    }
+    .quick_win_two .common_head.qw_top_head br
+    {
+        display: none;
+    }
+    .quick_win_two .wrapper {
+        padding: 0 30px;
+    }
+    .quick_win_two .wrapper_inner .col-md-6 {
+        width: 50%;
+        padding: 0 12px;
+    }
+    .quick_win_two .wrapper_inner .row {
+        margin: 0 -12px;
+        width: auto;
+    }
+    img.form_icon_img {
+        width: 80px;
+        bottom: -40px;
+    }
+    .form_border_div {
+        min-height: 254px;
+        height: 100%;
+    }
+    .yellow_bg_box p {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .yellow_bg_box {
+        padding: 40px 30px;
+        margin: 121px auto 70px auto;
+    }
+    .quick_win_two  .common_head.qw_middle_head {
+        margin-bottom: 70px;
+    }
+    .quick_win_two  .common_head img {
+        width: 27px;
+    }
+    .quick_win_two .row.cus_space_row {
+        width: 400px;
+        margin: 0 auto;
+        max-width: 100%;
+    }
+    .quick_win_two .outer_card_div p {
+        margin-bottom: 70px !important;
+    }
+
+    .quick_win_two .row.cus_space_row + h3.common_head.mb_100 {
+        margin-bottom: 80px !important;
+    }
+    .steps h3 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .steps p {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 34px;
+        min-height: auto;
+    }
+    .steps_section {
+        grid-gap: 24px;
+    }
+    .quick_win_three {
+        padding-top: 206px;
+        padding-bottom: 127px;
+    }
+    .quick_win_three .common_head br {
+        display: none;
+    }
+    .quick_win_three .common_head.qw_top_head img {
+        top: 10px;
+    }
+    .quick_win_three  h3.common_head.qw_top_head
+    {
+        margin-bottom: 50px;
+    }
+
+    img.yellow_img_desktop {
+        display: none;
+    }
+    .yellowbox_img .content_p p {
+        font-size: 20px;
+        line-height: 34px;
+    }
+    img.yellow_img_tab
+    {
+        display: block;
+    }
+    .yellowbox_img {
+        grid-template-columns: 260px 1fr;
+        margin: 0 auto 60px auto;
+    }
+
+    .quick_win_three .wrapper {
+        padding: 0 30px;
+    }
+    .quick_win_three .yellowbox_img + .common_head img {
+        width: 27px;
+        top: 5px !important;
+    }
+
+   .quick_win_three .three_check_col .row {
+        width: 400px;
+        margin: 0 auto;
+        max-width: 100%;
+    }
+
+    .inner_green_check p {
+        font-size: 22px;
+        margin-bottom: 70px !important;
+    }
+    .quick_win_three h3.common_head.qw_top_head.mb_0 img {
+        width: 27px;
+        top: 2px !important;
+    }
+    .convinced_sec {
+        padding-top: 100px;
+        z-index: 1;
+    }
+    .convinced_sec h3.big_head img {
+        width: 50px;
+    }
+    p.convinced_p {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .convinced_sec .row .col-md-6 {
+        width: 50%;
+        padding: 0 24px;
+    }
+    .convinced_sec .row
+    {
+        margin: 0 -24px;
+        grid-gap: 124px 0;
+    }
+    .outer_testi {
+        padding: 75px 20px 40px 20px;
+    }
+    .outer_testi img {
+        width: 110px;
+        top: -55px;
+    }
+    .outer_testi p {
+        margin-bottom: 20px;
+    }
+    .outer_testi h6 {
+        font-size: 18px;
+    }
+    .complete_gdpr {
+        padding-top: 290px;
+        margin-top: -190px;
+        padding-bottom: 130px;
+    }
+    .complete_gdpr .three_check_col .row {
+        margin: 0 auto;
+        width: 400px;
+        max-width: 100%;
+    }
+    .complete_gdpr .inner_green_check p {
+        margin-bottom: 60px !important;
+    }
+    .complete_gdpr .bottom_common_head br {
+        display: none;
+    }
+    .complete_gdpr .bottom_common_head {
+        margin-top: 40px;
+    }
+    .complete_gdpr .bottom_common_head img {
+        width: 27px;
+    }
+    .money_back_p {
+        margin-bottom: 50px !important;
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .complete_gdpr .outer_gdpr_email .common_btn {
+        margin-bottom: 50px;
+    }
+    .services_done {
+        padding-top: 150px;
+        overflow: hidden;
+    }
+    .services_done .common_head {
+        margin-bottom: 100px;
+    }
+    .services_done .common_head br
+    {
+        display: none;
+    }
+    .services_done .common_head img {
+        width: 28px;
+    }
+    .faq_sectin {
+        padding-bottom: 118px;
+    }
+    .cus_pricing_row {
+        grid-gap: 150px;
+    }
+    .mountain_shape:after {
+        position: absolute;
+        content: "";
+        top: 5px;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background: white;
+        z-index: -1;
+    }
+    .mountain_shape {
+        height: 1290px;
+    }
+    .complete_gdpr {
+        background-size: 53%;
+        background-position: bottom 250px right -310px;
+    }
+    .my_checklist {
+        padding-bottom: 200px;
+        background-size: 11%;
+        background-image: url(../images/new-images/arrow_btn_green_mob.png.png);
+    }
+    .cream .row.between-xs.middle-xs:after {
+        display: none !important;
+    }
+    .header_timer span.off_text {
+        font-size: 18px;
+    }
+    div#the-final {
+        font-size: 18px;
+    }
+    .gdpr_banner .inner_content h2 {
+        max-width: 100%;
+    }
+}
+
+
+@media only screen and (max-width:767px){
+    .gdpr_banner .inner_content h2 {
+        font-size: 26px;
+        line-height: 37px;
+        padding: 0;
+        margin-bottom: 30px;
+    }
+    .gdpr_banner .inner_content h2 img {
+        width: 26px;
+    }
+    .banner_mob_img
+    {
+        display: block;
+        width: 100%;
+    }
+    
+    .yellowbox_img {
+        padding: 39px 30px 0 30px;
+        display: flex;
+        flex-direction: column-reverse;
+        grid-gap: 22px;
+        margin-bottom: 50px;
+    }
+    .small_content_p {
+        width: 100%;
+    }
+    .outer_gdpr_email .common_btn {
+        width: 100%;
+        font-size: 16px;
+        margin-bottom: 30px;
+        line-height: 24px;
+    }
+    .gdpr_banner.main_banner {
+        padding: 30px 0 100px 0;
+    }
+    .gdpr_banner .wrapper {
+        padding: 0 20px;
+    }
+    .gdpr_banner .inner_content h4 {
+        margin-bottom: 33px;
+        margin-top: 30px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .small_content_p {
+        margin-bottom: 30px;
+    }
+    .star_reviews svg {
+        width: 180px;
+        margin-right: 0;
+    }
+    .review_p {
+        margin-right: 0;
+    }
+    .new_reviews {
+        flex-direction: column;
+    }
+    .review_images {
+        margin-top: 10px;
+    }
+    .gdpr_banner.main_banner .right_img {
+        display: none !important;
+    }
+    .founder_message_main {
+        margin-top: 50px;
+        flex-direction: column;
+        align-items: center;
+        grid-gap: 30px;
+    }
+    .founder_message p {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .gdpr_complaints .common_head {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .gdpr_complaints .common_head img {
+        width: 20px;
+    }
+    .gdpr_complaints {
+        padding: 27px 10px;
+    }
+    .gdpr_three_column .row .col-md-4 {
+        width: 100%;
+        padding: 0 30px;
+    }
+    .icon_div_partial img {
+        height: 55px;
+        margin: 0 auto 10px;
+        width: 63px;
+    }
+    .icon_div_partial p {
+        font-size: 18px;
+        margin-bottom: 30px !important;
+    }
+    section.gdpr_three_column {
+        padding-top: 80px;
+    }
+    .main_outer_gdpr_page .common_head {
+        font-size: 20px;
+        line-height: 30px !important;
+    }
+
+    .gdpr_three_column .common_head {
+        margin-top: 30px;
+    }
+    .marketing_checklist .outer_gdpr_email {
+        text-align: center;
+        padding: 0 20px;
+    }
+    .cus_proimg img {
+        margin: 0 auto 30px auto;
+        width: 100px;
+    }
+    .marketing_checklist h3.common_head.bottom_head {
+        padding: 0 20px;
+    }
+    .marketing_checklist h3.common_head.bottom_head img {
+        width: 20px;
+    }
+    section.marketing_checklist {
+        padding-bottom: 65px;
+    }
+    .main_outer_gdpr_page .common_head img {
+        width: 20px !important;
+    }
+    p.marketing_checklist_p {
+        padding: 0 20px;
+    }
+    .trusted_by_revenue {
+        padding: 50px 20px 95px;
+    }
+    .trusted_by_revenue h3.common_head.bottom_head {
+        margin-bottom: 30px;
+    }
+    .new_cus_logo {
+        grid-gap: 28px;
+    }
+    .new_cus_logo .img_outer:nth-child(1) {
+        width: 126px;
+    }
+    .new_cus_logo .img_outer:nth-child(2) {
+        width: 124px;
+    }
+    .new_cus_logo .img_outer:nth-child(3) {
+        width: 131px;
+    }
+    .new_cus_logo .img_outer:nth-child(4) {
+        width: 60px;
+    }
+    .new_cus_logo .img_outer:nth-child(4) {
+        width: 60px;
+    }
+    .big_head {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 35px;
+    }
+    .quick_win .wrapper {
+        padding: 0 20px;
+    }
+    .gdpr_sub_p_head {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 30px;
+    }
+    img.quick_win_form {
+        margin: 0 auto 30px auto;
+        max-width: calc(100% + 20px);
+        margin-left: -10px;
+    }
+    p.gdpr_sub_p_head img {
+        width: 16px;
+        position: relative;
+        top: 2px;
+    }
+    .yellow_bg_box {
+        padding: 32px 15px;
+        margin: 46px auto 0 auto;
+    }
+    .yellow_bg_box p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .quick_win {
+        padding: 70px 0 44px 0;
+    }
+    .middle_head {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    .middle_head img {
+        width: 24px;
+    }
+    .fines_p {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 100px;
+        padding: 0 20px;
+    }
+    .cus_issues_table .cus_table_header
+    {
+        display: none;
+    }
+    .cus_issues_table .cus_table_body_row:nth-child(2) {
+        border: 0 !important;
+    }
+    .cus_issues_table .cus_table_header .cus_first_th, .cus_issues_table .cus_table_body_row .cus_first_td {
+        width: 100%;
+    }
+    .cus_issues_table .cus_table_header .cus_second_th, .cus_issues_table .cus_table_body_row .cus_second_td {
+        width: 55%;
+    }
+    .cus_issues_table .cus_table_header .cus_third_th, .cus_issues_table .cus_table_body_row .cus_third_td {
+        width: 45%;
+        text-align: right;
+    }
+    .cus_issues_table .cus_table_body_row > div {
+        padding: 8px 10px 8px 20px;
+        
+    }
+    .cus_issues_table .cus_table_body_row > div.cus_first_td
+    {
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .cus_issues_table .cus_table_body_row {
+        border-top: 1px solid #D9C9B8;
+        padding-bottom: 22px;
+        padding-top: 22px;
+    }
+    .fines_sec {
+        background-image: url(../images/new-images/circle_arrow_up.png), url(../images/new-images/circle_arrow.png);
+        background-position: right -80px top 19%, left -50px bottom 4%;
+        background-size: 50%, 45%;
+        padding-bottom: 110px;
+    }
+    .my_checklist .common_head {
+        margin-bottom: 40px;
+        padding: 0 20px;
+    }
+
+    .my_checklist .row.cus_space_row {
+        max-width: 100%;
+    }
+
+    .my_checklist .row.cus_space_row .col-md-4 {
+        padding: 0 20px;
+    }
+    .outer_card_div p {
+        margin-bottom: 30px !important;
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .outer_card_div img {
+        margin-bottom: 30px;
+    }
+    .my_checklist h3.common_head.mb_100 {
+        margin-bottom: 50px !important;
+        margin-top: 20px;
+    }
+    .my_checklist h3.common_head.mb_50 {
+        margin-bottom: 50px !important;
+    }
+    p.notion_check {
+        font-size: 16px;
+        line-height: 26px;
+        margin: 0 auto 23px auto;
+        padding: 0 20px;
+    }
+
+    .my_checklist .outer_gdpr_email {
+        padding: 0 20px;
+    }
+    .my_checklist .outer_gdpr_email p {
+        margin: 0 auto 23px auto;
+    }
+    .register_note {
+        font-size: 14px;
+        line-height: 22px;
+        margin-top: 23px;
+        padding: 0 20px;
+    }
+    .my_checklist {
+        padding-bottom: 103px;
+        background-image: none;
+    }
+    .bottom_shape_desk
+    {
+        display: none;
+    }
+    .bottom_shape_mob
+    {
+        display: block;
+    }
+    .quick_win_two {
+        padding-top: 60px;
+    }
+    .quick_win_two  .common_head.qw_top_head {
+        margin-bottom: 30px;
+    }
+    .quick_win_two .wrapper {
+        padding: 0 10px;
+    }
+    .quick_win_two .wrapper_inner .col-md-6 {
+        width: 100%;
+        padding: 0 10px;
+    }
+    .form_border_div {
+        margin-bottom: 65px;
+        padding: 10px 14px 20px 14px;
+        height: auto;
+    }
+    img.form_icon_img {
+        width: 60px;
+        bottom: -31px;
+    }
+    .quick_win_two .yellow_bg_box {
+        margin: 5px auto 66px auto;
+        padding: 39px 15px 30px 15px;
+    }
+    .quick_win_two .common_head.qw_middle_head br {
+        display: none;
+    }
+    .quick_win_two  .common_head.qw_middle_head {
+        margin-bottom: 60px;
+        padding: 0 10px;
+    }
+   .quick_win_two .row.cus_space_row .col-md-4 {
+        padding: 0 10px;
+    }
+    .quick_win_two .outer_card_div p {
+        margin-bottom: 30px !important;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .quick_win_two .row.cus_space_row + h3.common_head.mb_100 {
+        margin-bottom: 60px !important;
+        margin-top: 30px;
+    }
+    .quick_win_two .row.cus_space_row + h3.common_head.mb_100 br
+    {
+        display: none;
+    }
+
+    .steps_section {
+        grid-gap: 60px;
+        grid-template-columns: 1fr;
+    }
+    .steps h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .steps p {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 30px;
+        min-height: auto;
+    }
+    .quick_win_three {
+        padding-top: 96px;
+        padding-bottom: 127px;
+    }
+    .quick_win_three {
+        padding-top: 96px;
+        padding-bottom: 84px;
+    }
+    .quick_win_three .common_head.qw_top_head img {
+        top: 5px;
+    }
+    .quick_win_three  h3.common_head.qw_top_head {
+        margin-bottom: 40px;
+    }
+    .quick_win_three .wrapper {
+        padding: 0 20px;
+    }
+    .yellowbox_img .content_p p {
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+    }
+    img.yellow_img_tab {
+        display: none;
+    }
+    img.yellow_img_desktop {
+        display: block;
+    }
+    .img_fines {
+        margin: 0 auto 55px auto;
+        max-width: calc(100% + 20px);
+        margin-left: -10px;
+    }
+    .inner_green_check img {
+        width: 30px;
+    }
+    .inner_green_check p {
+        font-size: 16px;
+        margin-bottom: 40px !important;
+        line-height: 26px;
+    }
+    .quick_win_three h3.common_head.qw_top_head.mb_0 {
+        margin-top: 20px;
+    }
+    .convinced_sec {
+        padding-top: 60px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .convinced_sec h3.big_head img {
+        width: 30px;
+    }
+    .convinced_sec h3.big_head {
+        margin-bottom: 40px;
+        padding: 0 20px;
+    }
+    p.convinced_p {
+        font-size: 16px;
+        line-height: 26px;
+        margin: 0 auto 125px auto;
+    }
+    .convinced_sec .row .col-md-6 {
+        width: 100%;
+        padding: 0 20px;
+    }
+    .convinced_sec .row {
+        margin: 0 -20px;
+        grid-gap: 105px 0;
+    }
+    .outer_testi img {
+        top: -65px;
+    }
+    .outer_testi {
+        padding: 72px 23px 33px 23px;
+    }
+    .complete_gdpr {
+        padding-top: 96px;
+        margin-top: 85px;
+        padding-bottom: 60px;
+        padding-left: 20px;
+        padding-right: 20px;
+        background-image: none;
+    }
+
+    .complete_gdpr .common_head br
+    {
+        display: none;
+    }
+    .complete_gdpr .common_head {
+        margin-bottom: 40px;
+    }
+    .complete_gdpr .bottom_common_head
+    {
+        margin-bottom: 20px;
+        margin-top: 10px;
+    }
+    .complete_gdpr .inner_green_check p {
+        margin-bottom: 40px !important;
+        
+    }
+    .money_back_p {
+        margin-bottom: 30px !important;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .complete_gdpr .outer_gdpr_email .common_btn {
+        margin-bottom: 30px;
+    }
+    .services_done {
+        padding-top: 50px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .services_done .common_head {
+        margin-bottom: 40px;
+    }
+    .services_done .green_bar h4 {
+        font-size: 18px;
+        line-height: 26px;
+        margin: 15px 0 15px 0;
+    }
+    .offer_img
+    {
+        display: none;
+    }
+    .offer_img_mob {
+        display: block;
+        margin: -13px auto 0 auto;
+        z-index: 1;
+        position: relative;
+        max-width: calc(100% + 6px);
+        margin-left: -3px;
+    }
+    .services_done span.all_price span.final_price {
+        font-size: 34px;
+    }
+    .services_done  span.all_price sub {
+        font-size: 16px;
+    }
+
+    .services_done span.all_price {
+        margin-bottom: 11px;
+    }
+    .services_done .outer_price_div p.check_points {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .services_done  ul.list_check {
+        padding: 0px 7px 0 0 ;
+    }
+    .services_done  .outer_price_div {
+        padding: 0 10px 24px 10px;
+    }
+    .services_done ul.list_check img {
+        margin-right: 13px;
+    }
+    .services_done ul.list_check li {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .services_done ul.list_check li:last-child {
+        margin-bottom: 37px;
+    }
+    .services_done p.bonous {
+        font-size: 12px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+    .services_done a.common_btn {
+        font-size: 16px;
+        font-weight: 500;
+        letter-spacing: 0.288px;
+        height: 62px;
+        line-height: 24px;
+    }
+    .for_center
+    {
+        padding: 0 10px;
+    }
+    .services_done img.payments_img {
+        margin: 30px 0 14px 0;
+    }
+    .services_done p.description {
+        line-height: 16px;
+        font-size: 10px;
+    }
+    .cus_pricing_row {
+        grid-gap: 114px;
+    }
+    .mountain_shape {
+        height: 1100px;
+    }
+
+    .pricing_card_gray .offer_img {
+        display: block;
+    }
+    .services_done .pricing_card_gray p.bonous {
+        margin-bottom: 30px;
+    }
+    .faq_sectin {
+        padding-top: 14px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 150px;
+    }
+    .main_outer_gdpr_page .faq_sectin .common_head {
+        margin-bottom: 40px;
+        text-align: center;
+        font-size: 34px !important;
+        line-height: 44px !important;
+    }
+    .cus_accordian .at-title h2 {
+        padding: 20px 0;    
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .cus_accordian .at-tab {
+        padding: 0 0 20px 0;
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .cus_accordian .at-title h2 br
+    {
+        display: none;
+    }
+    .cus_accordian .at-title {
+        padding-right: 30px;
+    }
+    .quick_win_two .wrapper_inner .row {
+        margin: 0 -10px;
+    }
+    .offer_text_div br
+    {
+        display: block;
+    }
+    .offer_text_div {
+        font-size: 12px;
+        line-height: 17px;
+        transform: rotate(-2deg);
+        margin-top: -8px;
+        padding: 4px 5px;
+        margin-bottom: 10px;
+    }
+
+    .services_done .pricing_card_gray  .outer_price_div {
+        margin-top: -27px;
+    }
+}
+
+
+@media only screen and (min-width:2200px){
+html
+{
+    width: 2200px;
+    margin: 0 auto !important;
+    max-width: 100%;
+}
+.complete_gdpr, .my_checklist {
+    background-size: 30%;
+}
+}
+@media only screen and (min-width:1024px) and (max-width:1024.70px){
+    .col-md-4
+    {
+       
+        max-width: 100%;
+        flex-basis: inherit;
+    }
+}
+
+@media only screen and (min-width:1025px){
+    .col-md-4
+    {
+        -ms-flex-preferred-size: 33.333%;
+    flex-basis: 33.333%;
+    max-width: 33.333%;
+    }
+}

@@ -1,0 +1,577 @@
+.hup_shopify_store_example{display: none !important;}
+.hup-logo-size {
+    width: 120px;
+}
+/*.hup-logo-size .logo {
+    max-width: 60%;
+}*/
+.hup_ecom_form{
+width: 100%; 
+min-height: 880px;
+height: 100%;
+}
+h1.hup_ecom-h1 {
+    font-size: 34px;
+}
+.woocommerce .select-wrapper input.select-dropdown
+{
+background: #e9e9e900 !important;
+
+}
+#currency .select-wrapper input.select-dropdown
+{
+	font-weight: 500 !important;
+}
+.woocommerce .dropdown-content
+{
+background:#fff !important; 
+}
+#currency svg
+{
+	width: unset !important;
+	top: 0 !important;
+}
+.hup_add .formkit-form[data-uid="cc1ce62f70"] [data-style="full"] {
+display: grid;
+grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+}
+.hup_add .formkit-form[data-uid="cc1ce62f70"] .formkit-column {
+padding: 40px;
+}
+.hup_add .formkit-form[data-uid="cc1ce62f70"][data-format="modal"] {
+box-shadow: 0 2px 15px 0 rgba(210,214,220,0.5);
+max-width: 700px;
+overflow: hidden;
+}
+.hup_add .seva-modal.formkit-modal {
+max-width: 600px !important;
+}
+.hup_add .formkit-form[data-uid="cc1ce62f70"] .formkit-input,
+.hup_add .formkit-form[data-uid="cc1ce62f70"] .formkit-submit {
+width: 100%;
+box-sizing: border-box;
+}
+.button.wc-forward {
+    display: none !important;
+}
+.hup_exit_intent_popup .formkit-form[data-uid="cc1ce62f70"] [data-style="full"] {
+display: grid;
+grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+}
+.hup_exit_intent_popup .formkit-form[data-uid="cc1ce62f70"] .formkit-column {
+padding: 40px;
+}
+.hup_exit_intent_popup .formkit-form[data-uid="cc1ce62f70"][data-format="modal"] {
+box-shadow: 0 2px 15px 0 rgba(210,214,220,0.5);
+max-width: 700px;
+overflow: hidden;
+}
+.hup_exit_intent_popup .seva-modal.formkit-modal {
+max-width: 600px !important;
+}
+.hup_exit_intent_popup .formkit-form[data-uid="cc1ce62f70"] .formkit-input,
+.hup_exit_intent_popup .formkit-form[data-uid="cc1ce62f70"] .formkit-submit {
+width: 100%;
+box-sizing: border-box;
+}
+.shopify_form_popup .formkit-form .formkit-input{
+    box-sizing: border-box;
+}
+.page-id-4642 .woocommerce-notices-wrapper{
+	display: none;
+}
+.hup_ppc_audit_form_popup .formkit-input {
+box-sizing: border-box !important;
+}
+.hup_ppc_audit_form_popup .formkit-subheader p,
+.hup_ppc_audit_form_popup .formkit-header h1{
+line-height: normal;
+text-align: center;
+}
+.hup_ppc_audit_form_popup .formkit-header {
+margin-top: 0 !important;
+}
+.hup_ppc_audit_form_popup button.formkit-submit.formkit-submit {
+margin: auto;
+display: block !important;
+}
+.hup_ppc_audit_form_popup .formkit-guarantee {
+margin-top: 10px !important;
+}
+
+/* css for sticky pageheader inside products starts*/
+.single-product .productpagemenu.fix_sticky_pageheader{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+}
+/* css for sticky pageheader inside products ends*/
+
+/*cart page css starts*/
+@media (max-width: 991px){
+	.hup_cart_responsive {
+	    width: 100%;
+	    max-width: 100% !important;
+	    margin-left: 0 !important;
+	    padding: 0 !important;
+	}
+	.hup_cart_responsive .sp-60
+	{
+		min-height: 30px;
+	}
+	table#custom_cart button.cart_green_outline{
+		padding-left: 18px !important;
+    	padding-right: 18px !important;
+	}
+}
+/*cart page css ends*/
+
+@media (max-width: 878px){
+	.hup_ecom_form {
+		min-height: 1250px;
+		padding-top: 25px !important;
+	}
+}
+@media (max-width: 414px){
+	.hup_ecom_form {
+		min-height: 1410px !important;
+	}
+	.hup_ecom_formwrapper {
+		padding: 0 !important;
+	}
+	.hup_ecom_form {
+		padding: 10px !important;
+	}
+}
+@media (max-width: 360px){
+	.hup_ecom_form {
+		min-height: 1505px !important;
+	}
+}
+
+/* Maulik css sticky */
+@media (min-width: 1024px){
+	.show-md.sticky{
+		position: absolute !important;
+	    left: 0;
+	    width: 100%;
+	    top: 23px !important;
+	    padding-top: 37px;
+	}
+	div#sticker {
+	    position: sticky;
+	    top: 30px;
+	}
+	.sticky-sibling{
+		padding-top: 0 !important;
+		margin-left: 33.33%;
+	}
+}
+/* Maulik css sticky*/
+
+.woocommerce-checkout form.checkout.woocommerce-checkout select#billing_country,
+.woocommerce-checkout form.checkout.woocommerce-checkout select#billing_state{
+	display: block !important;
+	background-color: #e9e9e9 !important;
+	margin: auto !important;
+	overflow: hidden !important;
+	position: relative !important;
+	width: 100% !important;
+	border: 1px solid #f2f2f2;
+	border-radius: 2px;
+	height: 3.5rem !important;
+    font-size: 14px;
+    padding: 15px 5% !important;
+    line-height: 1.875;
+    color: #43454b;
+	-webkit-appearance: menulist !important;
+}
+.woocommerce-checkout form.checkout.woocommerce-checkout input.select-dropdown.dropdown-trigger {
+	display: none;
+}
+
+@media (max-width: 991px){
+    .woocommerce-cart form.woocommerce-cart-form table#custom_cart tbody tr td.actions::before {
+        content: none !important;
+    }
+}
+#navigation #currency .select-wrapper input.select-dropdown {
+    font-weight: 400!important;
+}
+.row.pricing .hup_lite_plan,
+.row.pricing .hup_grow_plan,
+.row.pricing .hup_pro_plan,
+.row.pricing .hup_business_plan {
+flex: 1 1 100%;
+}
+.row.pricing .hup_lite_plan th:last-child,
+.row.pricing .hup_grow_plan th:last-child,
+.row.pricing .hup_pro_plan th:last-child,
+.row.pricing .hup_business_plan th:last-child,
+.row.pricing .hup_lite_plan td:last-child,
+.row.pricing .hup_grow_plan td:last-child,
+.row.pricing .hup_pro_plan td:last-child,
+.row.pricing .hup_business_plan td:last-child{
+width: 33.333%;
+}
+.row.pricing .hup_lite_plan th,
+.row.pricing .hup_grow_plan th,
+.row.pricing .hup_pro_plan th,
+.row.pricing .hup_business_plan th,
+.row.pricing .hup_lite_plan td,
+.row.pricing .hup_grow_plan td,
+.row.pricing .hup_pro_plan td,
+.row.pricing .hup_business_plan td{
+border-top: 1px solid #ddd;
+}
+
+
+/* priya css for shopify developer starts*/
+.hup_shopify_developer_form_button {
+    padding: 8px 10px;
+    border-radius: 6px;
+    display: inline-block;
+    text-align: center;
+    background: #ef525b;
+    font-weight: 400;
+    line-height: 1.6;
+    font-size: 14px;
+    transition: all 0.2s ease;
+}
+.hup_shopify_developer_form_button:hover {
+    transition: all 0.2s ease;
+    background: #50c6aa;
+}
+div#quote-cart-content {
+    height: 200px;
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+}
+/*popup css start*/
+.hup_shop_dialog_open {
+	display: none;
+}
+.hup_shop_dialog, .hup_shop_dialog_overlay {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+.hup_shop_dialog {
+    position: fixed;
+    display: -webkit-flex;
+    display: none;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    z-index: 999 !important;
+}
+.hup_shop_dialog_overlay {
+    position: absolute;
+    z-index: 1;
+    background: rgba(77, 77, 77, 0.8);
+    -webkit-transition: opacity 0.3s;
+    transition: opacity 0.3s;
+    -webkit-backface-visibility: hidden;
+    pointer-events: auto;
+}
+.hup_shop_dialog_content {
+    max-width: 600px;
+    min-width: 300px;
+    width: 80vw;
+    background: #fff;
+    position: relative;
+    z-index: 5;
+    border-radius: 6px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: auto;
+    margin-left: auto;
+    box-shadow: 0 2px 15px 0 rgba(210,214,220,.5);
+}
+form.hup_shop_dialog_content_form {
+    position: relative;
+}
+.hup_shop_dialog_content .hup_shop_dialog_heder,
+.hup_shop_dialog_content .hup_shop_dialog_body{
+    position: relative;
+    flex: 1;
+}
+.hup_shop_dialog_heder img {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+}
+.hup_shop_dialog_body {
+    padding: 3.4rem 1.25rem;
+    text-align: center;
+}
+.hup_shop_dialog_close {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600;
+    background: #ef525b;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border-radius: 25px;
+    position: absolute;
+    top: -12px;
+    right: -12px;
+    line-height: 28px;
+    z-index: 99999;
+    transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s, opacity 0.3s, color 0.3s;
+    cursor: pointer;
+}
+.hup_shop_dialog_close:hover{
+	background: #50c6aa;
+}
+.hup_shop_action_div .formkit-field input {
+    background-color: #ffffff !important;
+    font-size: 15px !important;
+    padding: 12px !important;
+    border: 1px solid #e3e3e3 !important;
+    line-height: 1.4 !important;
+}
+.hup_shop_action_div .formkit-field {
+    margin-bottom: 18px;
+}
+.hup_shop_action_div h2 {
+    font-size: 24px;
+}
+.hup_shop_action_div input[type='submit'] {
+    line-height: 1.4 !important;
+    font-size: 16px !important;
+    background: #52c6aa;
+    font-weight: 400;
+    transition: all 0.2s ease;
+    border-radius: 4px;
+    padding: 12px 24px;
+    border: 0;
+}
+.hup_shop_action_div input[type='submit']:hover{
+    background: #ee515b;
+}
+/*popup css ends*/
+
+.hup_montly_note_white
+{
+    position: relative;
+    color: #122947;
+    font-weight: 500;
+    border-bottom: 2px solid #ffffff;
+    padding-bottom: 2px;
+    transition: 0.3s ease;
+}
+
+a.hup_montly_note_white:hover{
+    padding-bottom: 3px;
+}
+
+a.hup_montly_note_white:before{
+  content: none;
+}
+/*a.hup_montly_note {
+    position: relative;
+    display: inline-block;
+    color: #122947;
+    font-weight: 500;
+}
+a.hup_montly_note:not(.no-underline):before {
+    background: #50c6aa;
+    height: 2px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    content: '';
+    transition: 0.3s ease;
+}*/
+#quote-cart-content .hup_store_value td:last-child:hover,
+#quote-cart-content td.hup-remove-row:last-child:hover{
+    background: transparent;
+    color: inherit;
+    cursor: pointer;
+}
+#quote-cart-content td.hup-remove-row {
+    position: relative;
+}
+#quote-cart-content td.hup-remove-row::before {
+    content: '';
+    background-color: #5a5a5a;
+    height: 2px;
+    width: 14px;
+    position: absolute;
+    top: 1.8em;
+    left: 50%;
+    transform: translateX(-50%);
+    transition: 0.5s ease-in-out;
+}
+#quote-cart-content td.hup-remove-row:hover::before {
+    background-color: #ee515b;
+}
+#quote-cart-content td.hup_td:nth-child(2) {
+    text-align: right;
+    width: 116px;
+}
+#quote-cart-content::-webkit-scrollbar {
+  width: 5px;
+}
+#quote-cart-content::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+#quote-cart-content::-webkit-scrollbar-thumb {
+  background-color: #4cb09a;
+  outline: 1px solid #4cb09a;
+}
+span.hup_email_error {
+    display: block;
+    font-size: 14px;
+    color: red;
+    line-height: normal;
+}
+.hup-option .pad-xs-25 {
+    border-radius: 4px;
+    height: 100%;
+    cursor: pointer;
+    color: #000;
+    background: #fff;
+}
+/* priya css for shopify developer starts*/
+
+/*priya css for blog page starts*/
+@media (min-width: 1024px){
+    #sticker.chapterbox {
+        max-height: 506px;
+        overflow-x: hidden!important;
+        overflow-y: auto!important;
+    }
+    #sticker.chapterbox::-webkit-scrollbar {
+      width: 5px;
+    }
+    #sticker.chapterbox::-webkit-scrollbar-track {
+      box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    }
+    #sticker.chapterbox::-webkit-scrollbar-thumb {
+      background-color: #50c6aa;
+      outline: 1px solid #50c6aa;
+    }
+}
+/*priya css for blog page ends*/
+
+/*priya css for checkout page starts*/
+button.large.hup_button_largepadding_remover,
+button.small.hup_button_smallpadding_remover,
+button.red.hup_button_smallpadding_remover,
+button.hup_button_smallpadding_remover{
+    padding: 0 !important;
+}
+.hup_button_largepadding_remover a,
+.hup_button_smallpadding_remover a{
+    padding-left: 35px;
+    padding-right: 35px;
+    display: block;
+    transition: all 0.2s ease;
+}
+.hup_button_largepadding_remover a {
+    padding-top: 19px !important;
+    padding-bottom: 19px !important;;
+}
+.hup_button_largepadding_remover.fullwidth a {
+    width: 100%;
+}
+.hup_button_largepadding_remover a:hover,
+.red.hup_button_smallpadding_remover a:hover,
+.hup_button_smallpadding_remover a:hover{
+    padding-left: 40px;
+    padding-right: 40px;
+    transition: all 0.2s ease;
+}
+.hup_button_smallpadding_remover a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#currency .select-wrapper input.select-dropdown {
+    height: 30px;
+    line-height: 30px;
+}
+/*priya css for checkout page ends*/
+
+/*maulik css home page top footer sec */
+@media (min-width: 767px)
+{
+    .hup_mobile_view
+    {
+        display: none;
+    }
+    .hup_desktop_view
+    {
+        display:block;
+    }
+}
+@media (max-width: 767px)
+{
+h1.hup_ecom-h1 {
+    font-size: 35px;
+}
+    .hup_mobile_view
+    {
+        display: block;
+    }
+    .hup_desktop_view
+    {
+        display:none;
+    }
+}
+/*maulik css home page top footer sec */
+
+/* css for instagram-loop-giveaway-service-for-shopify input box starts*/
+.hup_align_center_insta_loop .hup_convertkit_insta_loop .seva-form .seva-fields .formkit-field input.formkit-input {
+    box-sizing: border-box !important;
+}
+/* css for instagram-loop-giveaway-service-for-shopify input box ends*/
+/*.hup_montly_note {*/
+    /*font-weight: 500;*/
+/*}*/
+/*a.hup_montly_note{*/
+    /*position: relative;*/
+    /*color: #122947;*/
+    /*font-weight: 500;*/
+    /*border-bottom: 2px solid #50c6aa;*/
+    /*padding-bottom: 2px;*/
+    /*transition: 0.3s ease;*/
+/*}*/
+/*a.hup_montly_note:hover{*/
+    /*padding-bottom: 3px;*/
+/*}*/
+/*a.hup_montly_note::before{*/
+    /*content: none;*/
+/*}*/
+
+/**** blog a tag css ****/
+.hup-blog-body section p a{
+    position: relative;
+    color: #122947;
+    font-weight: 500;
+    border-bottom: 2px solid #50c6aa;
+    padding-bottom: 2px;
+    text-decoration: unset;
+    transition: 0.3s ease;
+}
+.hup-blog-body section p a:hover{
+    padding-bottom: 3px;
+}
+.hup-blog-body section p a span{
+    font-weight: 500 !important;
+}
+.hup-blog-body section p span {
+    text-decoration: unset !important;
+}
+/**** blog a tag css END ****/
+
+.wj_embed_bubble_detail_box>button, .wj_embed_bubble_detail_box>button:focus {
+  border-radius: 0 !important;
+}
